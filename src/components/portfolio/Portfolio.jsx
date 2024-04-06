@@ -5,7 +5,7 @@ import { motion, useScroll, useSpring, useTransform } from "framer-motion";
 const items = [
   {
     id: 1,
-    title: "Laundry Managment",
+    title: "Laundry Management",
     img: "https://images.pexels.com/photos/7282378/pexels-photo-7282378.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     desc: "We've prioritized simplicity and efficiency, allowing users to effortlessly select their laundry items, schedule pickup and delivery times, and receive a transparent breakdown of their total bill.",
   },
